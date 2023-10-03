@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olyabaz8
+- 👋 Hi, I’m @olyabazdy8
 - 👀 I’m interested in data analytics and coding
 - 🌱 I’m currently learning SQL, Python, PowerBI and Tableau
 - 💞️ I’m looking to collaborate on data analytics knowledge and resources
