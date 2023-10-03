@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olyabaz8
 - 👀 I’m interested in data analytics and coding
 - 🌱 I’m currently learning SQL, Python, PowerBI and Tableau
-- 💞️ I’m looking to collaborate on how to build a good data analytics portfolio and data projects
+- 💞️ I’m looking to collaborate on data analytics knowledge and resources
 - 📫 How to reach me ...email: bazdyolga@gmail.com
 
 <!---
